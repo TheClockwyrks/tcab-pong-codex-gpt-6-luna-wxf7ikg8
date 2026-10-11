@@ -1,0 +1,11 @@
+[[media]]
+file = "rally.json.gz"
+name = "A rally bending around the banks"
+
+[[media]]
+file = "rally.png"
+name = "Spin and obstacles in live play"
+
+[[media]]
+file = "title.png"
+name = "The Carom title screen"
